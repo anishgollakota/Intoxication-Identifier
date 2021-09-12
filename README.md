@@ -22,7 +22,7 @@ The following are some of the statistics on drunk driving:
 ### How It Works
 We are building an iOS application that takes live facial data and predicts whether one is intoxicated.
 
-### Convolutional Neural Network
+***Convolutional Neural Network***
 
 * 2D CNN Layers - 4
  * Pooling: (2, 2)
