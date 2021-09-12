@@ -23,16 +23,15 @@ The following are some of the statistics on drunk driving:
 We are building an iOS application that takes live facial data and predicts whether one is intoxicated.
 
 **Convolutional Neural Network**
-
 * 2D CNN Layers - 4
- * Pooling: (2, 2)
- * Dropout: 0.1-0.3
- * Activation: RELU
+  * Pooling: (2, 2)
+  * Dropout: 0.1-0.3
+  * Activation: RELU
 * Dense Layers - 5
- * Activation: RELU
+  * Activation: RELU
 * Compilation
- * Optimizer: Adam
- * Loss: Binary Crossentropy
+  * Optimizer: Adam
+  * Loss: Binary Crossentropy
 
 ## Limitations and the Future
 ### Limitations
