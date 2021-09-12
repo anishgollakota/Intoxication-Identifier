@@ -1,4 +1,4 @@
-# FACIAL SOBRIETY ANALYSIS
+# Facial Sobriety Analysis
 
 ## Problem
 Modern breathalyzers require bulky hardware to be transported to events people go to everyday. People who are intoxicated don't carry breathalyzers themselves and end up in troubled situations which end up in losing our loved ones. The following are some of the statistics
